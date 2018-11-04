@@ -11,9 +11,9 @@ The ultimate goal of these Insurgencies is to learn and have fun.  The end resul
 
 And with that, let is kick off the first Insurgency!
 
-# The Topic
+# The Stack
 
-The goal of this project is to develop an application using the following technologies:
+The stack for this project is the following:
 
 * React
 * TypeScript
