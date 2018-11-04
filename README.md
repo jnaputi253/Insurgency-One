@@ -22,4 +22,4 @@ The stack for this project is the following:
 
 # Why These?
 
-Although I am quite comfortable in C# and React, I would like to incorporate TypeScript into the mix so I can get a better understanding of it.  I've had a fascination with cloud technologies but haven't really dived into them that much.  This Insurgency will allow me to have a better understanding of AWS.
+Although I am quite comfortable in C# and React, I would like to incorporate TypeScript into the mix so I can get a better understanding of it.  I've had a fascination with cloud technologies but haven't really dived into them that much.  This Insurgency will allow me to have a better understanding of AWS so I may use it other technologies in future Insurgencies (Android, iOS, Golang, etc.)
