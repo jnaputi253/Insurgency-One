@@ -2,6 +2,7 @@
 using Amazon.DynamoDBv2.Model;
 using InsurgencyOne.Database;
 using InsurgencyOne.Results;
+using JetBrains.Annotations;
 
 namespace InsurgencyOne.Services
 {
@@ -14,7 +15,7 @@ namespace InsurgencyOne.Services
             _dynamoDbHandler = dynamoDbHandler;
         }
 
-        public async Task<IResult> CreateTableAsync(CreateTableRequest createTableRequest)
+        public async Task<IResult> CreateTableAsync([NotNull] CreateTableRequest createTableRequest)
         {
             try
             {
